@@ -1,0 +1,58 @@
+Receipt Number
+Date
+Merchant Name
+Merchant Phone Number
+Merchant Street Address
+CityStateZIP
+Name
+Company Name
+Street Address
+CityStateZIP_2
+Phone Number
+DescriptionRow1
+QuantityRow1
+PriceUnitRow1
+Line TotalRow1
+DescriptionRow2
+QuantityRow2
+PriceUnitRow2
+Line TotalRow2
+DescriptionRow3
+QuantityRow3
+PriceUnitRow3
+Line TotalRow3
+DescriptionRow4
+QuantityRow4
+PriceUnitRow4
+Line TotalRow4
+DescriptionRow5
+QuantityRow5
+PriceUnitRow5
+Line TotalRow5
+DescriptionRow6
+QuantityRow6
+PriceUnitRow6
+Line TotalRow6
+DescriptionRow7
+QuantityRow7
+PriceUnitRow7
+Line TotalRow7
+DescriptionRow8
+QuantityRow8
+PriceUnitRow8
+Line TotalRow8
+DescriptionRow9
+QuantityRow9
+PriceUnitRow9
+Line TotalRow9
+DescriptionRow10
+QuantityRow10
+PriceUnitRow10
+Line TotalRow10
+Subtotal
+Discount
+Sales Tax
+Payment Method
+Total
+Amount Paid
+CardCheck Number
